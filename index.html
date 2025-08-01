@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aunty Radar</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="intro-screen" id="introScreen">
+    <h1>Aunty Radar</h1>
+    <p>Detecting judging aunties near you since 1997</p>
+  </div>
+
+  <div class="main-screen" id="mainScreen" style="display: none;">
+    <h1><font face="Brush Script MT" >Find an Aunty-Safe Route</font></h1><br>
+    <h3>Select your path:</h3>
+    
+    <div class="location-selectors">
+      <label for="from">From:</label>
+      <select id="from">
+        <option value="house">House</option>
+        <option value="college">College</option>
+        <option value="library">Library</option>
+        <option value="coffee">Coffee Shop</option>
+      </select>
+
+      <label for="to">To:</label>
+      <select id="to">
+        <option value="college">College</option>
+        <option value="library">Library</option>
+        <option value="coffee">Coffee Shop</option>
+        <option value="house">House</option>
+      </select>
+    </div>
+
+    <button id="findPathBtn">Find Aunty-Safe Path</button>
+    <div id="spinner" style="display:none;">🔄</div>
+    <div id="loadingText" style="display:none; font-style: italic; margin-top: 10px;"></div>
+
+    <div class="map-container">
+      <img id="mapImage" src="assets\map.png" alt="Map will show here" />
+    </div>
+
+    <p class="warning" id="warningText"></p>
+  </div>
+
+  <script>
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        document.getElementById('introScreen').style.display = 'none';
+        document.getElementById('mainScreen').style.display = 'block';
+      }
+    });
+  </script>
+  <script src="script.js"></script>
+</body>
+</html>
+
+
