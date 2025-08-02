@@ -39,7 +39,7 @@ Open index.html in any browser
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 Screenshot1<br><img  src="welcome.png" width="300"/>
 *A welcome page of the website*
 
@@ -55,7 +55,12 @@ Screenshot4<br><img  src="map.png" width="300" />
 # Diagrams
 Workflow Diagram<br><img src="diagram.png" height="350" width="300">
 
-
+# Project Demo
+# Video
+<br>
+<video width="400" controls>
+<source src="vdo.mp4" type="video/mp4">
+</video>
 
 
 
