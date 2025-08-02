@@ -57,7 +57,7 @@ Screenshot4<br><img  src="map.png" />
 *The window that shows a useless but "smart" path in which you can avoid all the judging aunties on the way*
 
 # Diagrams
-Workflow Diagram<br><img src="diagram.png" height="250" width="250">
+Workflow Diagram<br><img src="diagram.png" height="300" width="250">
 *Add caption explaining your workflow*
 
 
