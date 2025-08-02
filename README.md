@@ -58,7 +58,7 @@ Workflow Diagram<br><img src="diagram.png" height="350" width="300">
 # Project Demo
 # Video
 <br>
-<video width="400" controls>
+<video width="640" height="360" controls>
 <source src="vdo.mp4" type="video/mp4">
 </video>
 
