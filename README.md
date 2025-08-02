@@ -58,7 +58,7 @@ Workflow Diagram<br><img src="diagram.png" height="350" width="300">
 # Project Demo
 # Video
 <br>
-[🎥 Watch Demo Video](./vdo.mp4)
+[🎥 Watch Demo Video](https://github.com/snehamaria1105/-UselessProject/blob/main/vdo.mp4)
 
 
 
