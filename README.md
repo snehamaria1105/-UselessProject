@@ -58,7 +58,7 @@ Screenshot4<br><img  src="map.png" width="300" />
 
 # Diagrams
 Workflow Diagram<br><img src="diagram.png" height="350" width="300">
-*Add caption explaining your workflow*
+
 
 
 
