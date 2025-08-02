@@ -5,10 +5,9 @@
 
 
 ## Basic Details
-### Team Name: Ctrl+fly
 
 
-### Team Members
+### 
 - Sneha Maria - LBSITW
 
 
@@ -34,7 +33,7 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-git clone https://github.com/snehamaria1105/aunty-radar.git  
+git clone https://github.com/snehamaria1105/-UselessProject.git  
 cd aunty-radar  
 
 
@@ -45,27 +44,22 @@ Open index.html in any browser
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]<br><img  src="welcome.png" />
+Screenshot1<br><img  src="welcome.png" />
 *A welcome page of the website*
 
-![Screenshot2]<br><img  src="home.png" />
+Screenshot2<br><img  src="home.png" />
 *Landing page where you start your aunty-safe journey*
 
-![Screenshot3]<br><img  src="location.png" />
+Screenshot3<br><img  src="location.png" />
 *A dropdown from where you can select you initial and final destination*
 
-![Screenshot4]<br><img  src="map.png" />
+Screenshot4<br><img  src="map.png" />
 *The window that shows a useless but "smart" path in which you can avoid all the judging aunties on the way*
 
 # Diagrams
-![Workflow]<br><img src="diagram.png">
+Workflow Diagram<br><img src="diagram.png" height="250" width="250">
 *Add caption explaining your workflow*
 
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 
 
