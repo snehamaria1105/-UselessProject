@@ -40,16 +40,16 @@ Open index.html in any browser
 For Software:
 
 # Screenshots 
-Screenshot1<br><img  src="welcome.png" width="300"/>
+<br><img  src="welcome.png" width="300"/><br>
 *A welcome page of the website*
 
-Screenshot2<br><img  src="home.png" width="300" />
+<br><img  src="home.png" width="300" /><br>
 *Landing page where you start your Aunty-safe journey*
 
-Screenshot3<br><img  src="location.png" width="300"/>
+<br><img  src="location.png" width="300"/><br>
 *A dropdown from where you can select your initial and final destinations*
 
-Screenshot4<br><img  src="map.png" width="300" />
+<br><img  src="map.png" width="300" /><br>
 *The window that shows a useless but "smart" path in which you can avoid all the judging aunties on the way*
 
 # Diagrams
@@ -57,8 +57,11 @@ Workflow Diagram<br><img src="diagram.png" height="350" width="300">
 
 # Project Demo
 # Video
-<br>
-[🎥 Watch Demo Video](https://github.com/snehamaria1105/-UselessProject/blob/main/vdo.mp4)
+
+
+
+
+https://github.com/user-attachments/assets/8b3c634f-90fb-48ea-803c-d0afeb6b4ef5
 
 
 
